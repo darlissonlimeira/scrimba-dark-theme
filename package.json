@@ -1,7 +1,7 @@
 {
   "name": "scrimba-dark-theme",
   "displayName": "Scrimba Dark Theme by drkcode",
-  "description": "dark theme inspired by scrimba code editor",
+  "description": "Dark theme inspired by Scrimba.",
   "version": "0.0.4",
   "author": {
     "name": "Darlisson Limeira"
@@ -29,6 +29,7 @@
   "categories": [
     "Themes"
   ],
+  "homepage": "https://github.com/drkcode/scrimba-dark-theme/blob/main/README.md",
   "publisher": "drkcode",
   "contributes": {
     "themes": [
