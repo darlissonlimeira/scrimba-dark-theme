@@ -1,6 +1,6 @@
 {
-  "name": "scrimba-drk-theme",
-  "displayName": "Scrimba Drk Theme",
+  "name": "scrimba-dark-theme",
+  "displayName": "Scrimba Dark Theme by drkcode",
   "description": "dark theme inspired by scrimba code editor",
   "version": "0.0.1",
   "author": {
@@ -13,6 +13,14 @@
     "type": "git",
     "url": "https://github.com/drkcode/scrimba-dark-theme"
   },
+  "keywords": [
+    "dark theme",
+    "scrimba dark theme",
+    "scrimba theme",
+    "cold",
+    "minimalist",
+    "pastel"
+  ],
   "categories": [
     "Themes"
   ],
