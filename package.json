@@ -27,7 +27,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "drk theme",
+        "label": "scrimba dark theme",
         "uiTheme": "vs-dark",
         "path": "./themes/drk theme-color-theme.json"
       }
