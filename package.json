@@ -1,0 +1,24 @@
+{
+  "name": "scrimba-drk-theme",
+  "displayName": "Scrimba Drk Theme",
+  "description": "dark theme inspired by scrimba code editor",
+  "version": "0.0.1",
+  "author": {
+    "name": "Darlisson Limeira"
+  },
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "drk theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/drk theme-color-theme.json"
+      }
+    ]
+  }
+}
