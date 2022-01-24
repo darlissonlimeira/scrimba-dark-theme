@@ -26,7 +26,11 @@
     },
     {
       "name": "Variables",
-      "scope": ["variable", "string constant.other.placeholder"],
+      "scope": [
+        "variable",
+        "string constant.other.placeholder",
+        "keyword.operator.assignment.js.jsx"
+      ],
       "settings": {
         "foreground": "#EEFFFF"
       }
