@@ -2,7 +2,7 @@
   "name": "scrimba-dark-theme",
   "displayName": "Scrimba Dark Theme by drkcode",
   "description": "Dark theme inspired by Scrimba.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": {
     "name": "Darlisson Limeira"
   },
@@ -15,9 +15,12 @@
   },
   "keywords": [
     "dark theme",
+    "dark",
+    "scrimba",
     "scrimba dark theme",
     "scrimba theme",
     "cold",
+    "theme",
     "minimalist",
     "pastel"
   ],
