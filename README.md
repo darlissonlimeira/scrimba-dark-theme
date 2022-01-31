@@ -1,6 +1,12 @@
 # Scrimba Dark Theme for VS code
 
+## Scrimba Dark Theme
+
 ![Screenshot](./screenshot.png)
+
+## Scrimba Dark Theme Editing
+
+![Screenshot](./screenshot-editing.png)
 
 ## Issues & Suggestions
 
