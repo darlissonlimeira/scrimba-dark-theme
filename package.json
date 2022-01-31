@@ -40,6 +40,11 @@
         "label": "Scrimba Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/scrimba-dark-theme.json"
+      },
+      {
+        "label": "Scrimba Dark Theme Editing",
+        "uiTheme": "vs-dark",
+        "path": "./themes/scrimba-dark-theme-editing.json"
       }
     ]
   }
